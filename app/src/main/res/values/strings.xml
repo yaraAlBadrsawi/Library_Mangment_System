@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Library_system_mangment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="book_library">Book Library</string>
+    <string name="book_name">Book Name</string>
+    <string name="author_name">Author Name</string>
+    <string name="release_year">Release Year</string>
+    <string name="pages_number">Pages Number</string>
+    <string name="library">Library</string>
+    <string name="favorite">Favorite</string>
+    <string name="admin_main_title">Library Management System</string>
+    <string name="create_category">Create Category</string>
+    <string name="home">Home</string>
+    <string name="search_books">search books . . .</string>
+    <string name="category_name">category name</string>
+    <string name="number_of_books">Number of Books :</string>
+    <string name="add_book">Add Book</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="description">description (Optional)</string>
+    <string name="sign_up">Sign up</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="password">Password</string>
+    <string name="or">or</string>
+    <string name="register">Register</string>
+    <string name="categories">Categories</string>
+
+    <string name="user_name_empty">user name should not be empty</string>
+    <string name="splash_title">Reading is fascination</string>
+
+</resources>
